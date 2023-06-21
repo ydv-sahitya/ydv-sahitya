@@ -1,4 +1,4 @@
-<h3 align="center">A passionate tech guy</h3>
+<h3 align="center">A tech guy</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
